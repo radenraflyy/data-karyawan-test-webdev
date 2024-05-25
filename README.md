@@ -28,10 +28,14 @@ Project nya tidak jauh dengan konsep CRUD dan beberapa logic.
 
    ![image](https://github.com/radenraflyy/data-karyawan-test-webdev/assets/91299350/eddb863b-e1bd-40cc-881c-6c2019ca6ed0)
 
-2. Halaman Data Karyawan
+   
+
+3. Halaman Data Karyawan
     ![image](https://github.com/radenraflyy/data-karyawan-test-webdev/assets/91299350/6fef8b43-5cd8-4974-8e09-d4ef00ed72fb)
 
-3. Halaman yang akan terjadi jika ada yang login dengan menggunakan akun yang sama
+   
+
+5. Halaman yang akan terjadi jika ada yang login dengan menggunakan akun yang sama
    ![image](https://github.com/radenraflyy/data-karyawan-test-webdev/assets/91299350/9c59e095-1df2-4206-bdfe-6efd726125d9)
  
 
