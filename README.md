@@ -39,5 +39,9 @@ Project nya tidak jauh dengan konsep CRUD dan beberapa logic.
    ![image](https://github.com/radenraflyy/data-karyawan-test-webdev/assets/91299350/9c59e095-1df2-4206-bdfe-6efd726125d9)
  
 
+## Logic untuk multiple device
+Saya memanfaatkan CSRF dan middleware yang sudah disediakan oleh Laravel nya tersebut. Berikut ini lah yang saya handle terkait not multiple device.
+![image](https://github.com/radenraflyy/data-karyawan-test-webdev/assets/91299350/9f3cadd4-d79b-4f9d-9637-66cd0e406036)
+
 
 
